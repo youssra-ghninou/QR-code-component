@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/youssra-ghninou/QR-code-component]
-- Live Site URL: [https://youssra-ghninou.github.io/QR-code-component/]
+- Solution URL : [github](https://github.com/youssra-ghninou/qr-code-component)
+- Live Site URL : [demo](https://youssra-ghninou.github.io/QR-code-component/)
 
 ## My process
 
@@ -56,5 +56,5 @@ Users should be able to:
 
 ## Acknowledgments
 
-Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
-Coded by <a href="https://github.com/youssra-ghninou/">GHNINOU Youssra</a>.
+- Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+- Coded by <a href="https://github.com/youssra-ghninou/">GHNINOU Youssra</a>.
